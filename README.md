@@ -3,3 +3,5 @@
 
 바이낸스에서 데이터 생성하는 부분 참고 :
 https://parkeunsang.github.io/blog/stock/2021/06/11/python-api.html
+캔들차트 이미지 만드는 부분 참고:
+htttps://github.com/rosdyana/Going-Deeper-with-Convolutional-Neural-network-for Stock-Market-Prediction
